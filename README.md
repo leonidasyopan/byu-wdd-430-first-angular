@@ -1,27 +1,61 @@
-# AcademindFirstApp
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://leonidasyopan.com/">
+    <img src="https://raw.githubusercontent.com/leonidasyopan/yopan-journal-frontend/master/src/assets/logo-leonidas-yopan-480x150.png" alt="Logo Leonidas Yopan" width="300" height="94">
+  </a>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
+  <h3 align="center">Web Full-Stack Development Frontend Project</h3>
 
-## Development server
+  <p align="center">
+    This is one of the projects, the frontend part, for the course WDD-430 - Web Full-Stack Development at BYU-Idaho. Which is part of my Bachelor's in Web Design and Develppment with emphasis in development.
+    <br />
+    <br />
+    More information about the author:
+    <br />
+    <a href="https://www.linkedin.com/in/leonidasyopan/" target="_blank">LinkedIn</a>
+    ·
+    <a href="https://twitter.com/leonidasyopan" target="_blank">Twitter</a>
+    ·
+    <a href="https://www.facebook.com/leonidasyopan" target="_blank">Facebook</a>
+  </p>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+# The MEAN Stack | MongoDB, Express, Angular and NodeJS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This is the beginning of a smester project.
 
-## Build
+## Install and Run
+First clonen the project:
+```
+git clone https://github.com/leonidasyopan/byu-wdd-430-first-angular.git
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Now you can access the directory and then install it using NPM:
+```
+npm install
+```
 
-## Running unit tests
+After installing you can start the serve:
+```
+ng serve
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Technologies involed
+- Angular
+- Typescript
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+<!-- LICENSE -->
+## Licença
 
-## Further help
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+<!-- CONTACT -->
+## Contato
+
+Leônidas Yopán - [@leonidasyopan](https://twitter.com/leonidasyopan) - leonidasyopan@gmail.com
+
+LinkedIn: [https://www.linkedin.com/in/leonidasyopan/](https://www.linkedin.com/in/leonidasyopan/)
