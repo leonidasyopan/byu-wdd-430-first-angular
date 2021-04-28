@@ -1,6 +1,7 @@
-<p>Name</p>
+<label>Username</label>
 
 <input
+  class="form-control"
   type="text"
   name="name"
   id="name"
@@ -8,9 +9,9 @@
 >
 
 <button
-class="btn btn-primary"
-[disabled]="username.length < 1"
-(click)="resetName()"
+  class="btn btn-primary"
+  [disabled]="username.length < 1"
+  (click)="resetName()"
 >Reset Name</button>
 
 <p class="username">{{ username }}</p>
